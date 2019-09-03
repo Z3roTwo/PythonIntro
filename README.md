@@ -6,12 +6,17 @@ Namn och namngivning, camelCase
 
 # Operatorer
 
- = Till delmingsoperator
+= Till delmingsoperator
 
- # Datatyper
+# Datatyper
 
- string
- integer
- boolean
+string = sträng, allt inom citat tecken regristreras som en sträng, str
+integer = heltal, 
+boolean
 
- # Exceptions
+# Exception
+Type error
+Value error
+
+# Syntax Error
+Felstavning
