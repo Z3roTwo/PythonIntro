@@ -45,7 +45,7 @@
 #
 #    print(Summa)
 
-memory = 0
+memory = int(input("Value: "))
 i = True
 while i == True:
     try:
